@@ -7,6 +7,7 @@ Windows
 - env\Scripts\activate
 (Project folder should now appear before the file path, i.e. (env) C:\Users\...
 - pip install flask 
+- pip install geopy 
 - set FLASK_APP=application.py
 
 4. To run flask, run:
